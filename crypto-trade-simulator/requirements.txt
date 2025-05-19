@@ -1,0 +1,7 @@
+websockets
+pandas
+numpy
+scikit-learn
+statsmodels
+PyQt5
+matplotlib
